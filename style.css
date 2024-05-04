@@ -1,4 +1,4 @@
-/* Created by Tivotal */
+
 
 /* Google Fonts(Poppins) */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -376,21 +376,21 @@ nav .right img {
 }
 
 .post_bottom .post_icon i.red {
-  font-size: 23px;
+  font-size: 20px;
   color: red;
-  margin-right: 8px;
+  margin-right: 6px;
 }
 
 .post_bottom .post_icon i.green {
-  font-size: 23px;
+  font-size: 20px;
   color: #27cc37;
-  margin-right: 8px;
+  margin-right: 6px;
 }
 
 .post_bottom .post_icon i.yellow {
-  font-size: 23px;
+  font-size: 20px;
   color: #f7b928;
-  margin-right: 8px;
+  margin-right: 6px;
 }
 
 .main .center .room {
